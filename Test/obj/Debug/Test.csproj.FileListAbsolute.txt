@@ -1,0 +1,7 @@
+c:\users\thang\documents\visual studio 2013\Projects\Test\Test\bin\Debug\Test.exe.config
+C:\Users\thang\Documents\Visual Studio 2013\Projects\Test\Test\bin\Debug\Test.exe
+C:\Users\thang\Documents\Visual Studio 2013\Projects\Test\Test\bin\Debug\Test.pdb
+C:\Users\thang\Documents\Visual Studio 2013\Projects\Test\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thang\Documents\Visual Studio 2013\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\thang\Documents\Visual Studio 2013\Projects\Test\Test\obj\Debug\Test.exe
+C:\Users\thang\Documents\Visual Studio 2013\Projects\Test\Test\obj\Debug\Test.pdb
